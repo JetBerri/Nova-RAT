@@ -1,0 +1,8 @@
+C:\Users\jetbe\Desktop\Nova-Rat\Nova-RAT\Nova-RAT\bin\Release\Nova-RAT.exe.config
+C:\Users\jetbe\Desktop\Nova-Rat\Nova-RAT\Nova-RAT\bin\Release\Nova-RAT.exe
+C:\Users\jetbe\Desktop\Nova-Rat\Nova-RAT\Nova-RAT\bin\Release\Nova-RAT.pdb
+C:\Users\jetbe\Desktop\Nova-Rat\Nova-RAT\Nova-RAT\obj\Release\Nova-RAT.csproj.AssemblyReference.cache
+C:\Users\jetbe\Desktop\Nova-Rat\Nova-RAT\Nova-RAT\obj\Release\Nova-RAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\jetbe\Desktop\Nova-Rat\Nova-RAT\Nova-RAT\obj\Release\Nova-RAT.csproj.CoreCompileInputs.cache
+C:\Users\jetbe\Desktop\Nova-Rat\Nova-RAT\Nova-RAT\obj\Release\Nova-RAT.exe
+C:\Users\jetbe\Desktop\Nova-Rat\Nova-RAT\Nova-RAT\obj\Release\Nova-RAT.pdb
